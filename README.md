@@ -2,7 +2,7 @@
 Single cycle mips processor written in Verilog for CS3421 Computer Organization at MTU.
 
 Supported Instructions:
-add\n
+add /n
 sub
 and
 or
